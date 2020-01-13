@@ -23,7 +23,7 @@ zhihu_username:     amranth
 github_username:    amranth
 facebook_username:  amranth
 jianshu_username:   amranth
-#twitter_username:   amranth
+twitter_username:   am666946
 
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "追光者",
         href: "https://sec.kim/"
     },{
-        title: "简书",
-        href: "http://www.jianshu.com/"
+        title: "Twitter",
+        href: "https://www.twitter.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
