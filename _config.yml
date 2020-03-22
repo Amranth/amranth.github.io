@@ -20,9 +20,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: true
 # weibo_username:     amranth
 #jianshu_username:   amranth
+#zhihu_username:     amranth
 facebook_username:  am666946
 twitter_username:   am666946
-zhihu_username:     amranth
 github_username:    amranth
 
 
@@ -56,19 +56,18 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: Amranth
-layout: default
-comments: true
+#layout: default
+#comments: true
 
 # Gitalk
-#gitalk:
-#  enable: true    #是否开启Gitalk评论
-#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#  repo: amranth.github.io    #仓库名称
-#  owner: amranth    #github用户名
-#  admin: amranth
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 56eec60a7c7c828ad63f                            #生成的clientID
+  clientSecret: db3dc6d550085838d170551bacb9306675e8510a    #生成的clientSecret
+  repo: amranth.github.io    #仓库名称
+  owner: amranth    #github用户名
+  admin: amranth
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
