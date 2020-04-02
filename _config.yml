@@ -100,15 +100,15 @@ service-worker: true
 friends: [
     {
         title: "追光者",
-        href: "https://sec.kim/"
+        href: "https://sec.kim"
     },{
-        title: "Twitter",
-        href: "https://www.twitter.com/"
+        title: "鉄血男儿",
+        href: "https://pfschina.org"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://developer.apple.com"
     }
 ]
